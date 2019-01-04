@@ -7,16 +7,13 @@
           "type": "Single",
           "options": [{
               "id": 1,
-              "label": "Yes",
-              "count": 0
+              "label": "Yes"
             },
             {
               "id": 2,
-              "label": "No",
-              "count": 0
+              "label": "No"
             }
-          ],
-          "votes": 0
+          ]
         }
       },
       {
@@ -27,16 +24,13 @@
           "type": "Single",
           "options": [{
               "id": 3,
-              "label": "Yes",
-              "count": 0
+              "label": "Yes"
             },
             {
               "id": 4,
-              "label": "No",
-              "count": 0
+              "label": "No"
             }
-          ],
-          "votes": 0
+          ]
         }
       },
       {
@@ -47,16 +41,13 @@
           "type": "Single",
           "options": [{
               "id": 5,
-              "label": "Hopeful",
-              "count": 0
+              "label": "Hopeful"
             },
             {
               "id": 6,
-              "label": "Doubtful",
-              "count": 0
+              "label": "Doubtful"
             }
-          ],
-          "votes": 0
+          ]
         }
       },
       {
@@ -67,36 +58,29 @@
           "type": "Multi",
           "options": [{
               "id": 7,
-              "label": "Hong Kong",
-              "count": 0
+              "label": "Hong Kong"
             },
             {
               "id": 8,
-              "label": "China",
-              "count": 0
+              "label": "China"
             },
             {
               "id": 9,
-              "label": "Australia",
-              "count": 0
+              "label": "Australia"
             },
             {
               "id": 10,
-              "label": "Thailand",
-              "count": 0
+              "label": "Thailand"
             },
             {
               "id": 11,
-              "label": "Korea",
-              "count": 0
+              "label": "Korea"
             },
             {
               "id": 12,
-              "label": "Japan",
-              "count": 0
+              "label": "Japan"
             }
-          ],
-          "votes": 0
+          ]
         }
       },
       {
@@ -107,16 +91,13 @@
           "type": "Single",
           "options": [{
               "id": 13,
-              "label": "Yes",
-              "count": 0
+              "label": "Yes"
             },
             {
               "id": 14,
-              "label": "No",
-              "count": 0
+              "label": "No"
             }
-          ],
-          "votes": 0
+          ]
         }
       }
     ]
