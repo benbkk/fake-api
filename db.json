@@ -101,11 +101,6 @@
         }
       }
     ],
-    "votes": [
-      {
-        "id": 1,
-        "pollID": 1,
-        "votes": "Yes"
-      }
-    ]
+    "votes":[]
   }
+  
